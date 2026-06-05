@@ -17,3 +17,4 @@ GitHub replication integration
 Final end-to-end pipeline validation
 Automatic GitHub sync validation
 final automatic sync test
+trigger merge event test
